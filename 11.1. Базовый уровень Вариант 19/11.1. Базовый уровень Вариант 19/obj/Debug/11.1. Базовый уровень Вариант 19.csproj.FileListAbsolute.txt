@@ -1,0 +1,10 @@
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\bin\Debug\_11._1.Базовый_уровень_Вариант_19.exe.config
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\bin\Debug\_11._1.Базовый_уровень_Вариант_19.exe
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\bin\Debug\_11._1.Базовый_уровень_Вариант_19.pdb
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\11.1. Базовый уровень Вариант 19.csproj.AssemblyReference.cache
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\_11._1.Базовый_уровень_Вариант_19.Form1.resources
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\_11._1.Базовый_уровень_Вариант_19.Properties.Resources.resources
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\11.1. Базовый уровень Вариант 19.csproj.GenerateResource.cache
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\11.1. Базовый уровень Вариант 19.csproj.CoreCompileInputs.cache
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\_11._1.Базовый_уровень_Вариант_19.exe
+C:\Users\imzme\source\repos\11.1. Базовый уровень Вариант 19\11.1. Базовый уровень Вариант 19\obj\Debug\_11._1.Базовый_уровень_Вариант_19.pdb
